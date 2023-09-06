@@ -267,7 +267,7 @@ opacity: 1;
 .navigation ul{
   display: flex;
   list-style: none;
-  width: 100%;
+  width: 80%;
   justify-content: center;
 }
 
